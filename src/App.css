@@ -9,6 +9,12 @@ textarea {
   font-size: 13px;
 }
 
+input[type='name']:focus,
+input[type='email']:focus,
+textarea {
+  outline: none;
+}
+
 input[type='name']::placeholder,
 input[type='email']::placeholder,
 textarea::placeholder {

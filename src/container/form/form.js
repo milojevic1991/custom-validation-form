@@ -14,9 +14,9 @@ const FormWrapp = styled.form`
   height: 700px;
   margin: 0 auto;
   background-color: #242637;
-  border-radius: 10px;
+  border-radius: 42px;
   background: linear-gradient(145deg, #202232, #27293b);
-  box-shadow: 14px 14px 26px #1b1d2a, -14px -14px 26px #2d2f44;
+  box-shadow: 5px 5px 25px #12131c, -5px -5px 19px #363952;
 `;
 
 const Form = () => {
