@@ -16,7 +16,7 @@ const Btn = styled.input`
     background: linear-gradient(to right, #711280, #3c053c);
   }
 `;
-const Button = ({ type, value, submit, name, placeholder }) => {
+const Button = ({ type, value, submit, name, placeholder,text }) => {
   return (
     <Btn
       type={type}
