@@ -8,7 +8,7 @@ const Btn = styled.input`
   border: none;
   width: 80%;
   color: #fff;
-  padding: 1rem 1rem;
+  padding: 1rem 1.1rem;
   margin: 1rem;
   cursor: pointer;
   transition: 0.2s all;
