@@ -5,7 +5,7 @@
 Custom Neumorphism/Soft UI validation form using React Hooks. 
 </h1>
 
-![demo](https://i.ibb.co/DRVy551/Screenshot-60.png
+![demo](https://i.ibb.co/DRVy551/Screenshot-60.png)
 
 ## 🎨 Color Reference
 
